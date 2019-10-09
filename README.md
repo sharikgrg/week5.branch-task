@@ -47,3 +47,13 @@ enable git and add remote through gitbash in the directory
 - pull the master in origin to your local master to update it
 
     git pull origin master
+
+
+
+### Creating a Vagrant
+
+
+### Installing sw
+
+
+### Installing plugins
