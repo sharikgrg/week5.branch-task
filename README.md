@@ -10,7 +10,7 @@
 5) push the branch to origin
 6) merge in github
 7) pull to your master (updating your master)
-8)MAKE A NEW branch
+8) MAKE A NEW branch
   - new vagrant file
 9) add/commit and push to origin again
 10) merge in github
